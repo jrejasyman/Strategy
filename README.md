@@ -1,0 +1,2 @@
+# Strategy
+Patrón De Diseño
